@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 5-square.py
-# Ekun-Thomas Francis<ekun_tee@yahoo.com>
 """Define a class Square."""
 
 
